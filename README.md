@@ -18,7 +18,7 @@
   
 · 💼 Open to: part-time opportunities
 
-· 📬 Contacts: Telegram
+· 📬 Contacts: https://t.me/eproshenkova
 
 ---
 

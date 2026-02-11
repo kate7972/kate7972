@@ -20,7 +20,7 @@
 
 · 📬 Contacts: https://t.me/eproshenkova
 
-📍Based in Turkey
+· 📍Based in Turkey
 
 ---
 

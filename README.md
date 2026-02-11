@@ -1,5 +1,5 @@
 👋 Hi! My name is Ekaterina Proshenkova.
- I’m a Data Analyst based in Turkey.
+ I’m a Data Analyst 
 
 ---
 
@@ -19,6 +19,8 @@
 · 💼 Open to: part-time opportunities
 
 · 📬 Contacts: https://t.me/eproshenkova
+
+📍Based in Turkey
 
 ---
 

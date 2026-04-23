@@ -18,7 +18,7 @@
   
 · 💼 Open to: part-time opportunities
 
-· 📬 Contacts: https://t.me/eproshenkova
+· 📬 Contacts: https://t.me/eproshenkova1
 
 · 📍Based in Turkey
 

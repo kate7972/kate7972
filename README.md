@@ -1,7 +1,7 @@
  Hi!👋 My name is Ekaterina Proshenkova  
  I'm Data Analyst
 
-###Skills & Tech Stack:
+^Skills & Tech Stack:^
 
 __Programming & Databases:__ Python + библиотеки, SQL, Jypiter Notebook, DBeaver, PostgreSQL
 __Data Analysis:__ A/B тестирование, проверка гипотез, когортный анализ, продуктовые метрики

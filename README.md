@@ -13,7 +13,8 @@ __Product & Business Tools:__ Jira, Confluence, CRM, Bitrix
 ---
 __Languages:__
   Russian — native  
-  English — B1 (reading/writing/listening), A2 (speaking)
+  English — B1 (reading/writing/listening), A2 (speaking)  
+  Turkish - A2
 
 ---
 __Contacts:__ https://t.me/eproshenkova  

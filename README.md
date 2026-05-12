@@ -11,8 +11,8 @@ __🛠️ Skills & Tech Stack:__
 * __Product & Business Tools:__ Jira, Confluence, CRM, Bitrix
 
 ---
-__Languages:__
-  Russian — native  
+__Languages:__  
+Russian — native  
   English — B1 (reading/writing/listening), A2 (speaking)  
   Turkish - A2
 

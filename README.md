@@ -1,5 +1,5 @@
- Hi!👋 I'm Ekaterina Proshenkova
-__Role:__ Data Analyst
+ Hi!👋 I'm Ekaterina Proshenkova  
+ __Role:__ Data Analyst
 ---
 
 ###Skills & Tech Stack:

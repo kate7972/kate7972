@@ -1,24 +1,20 @@
-👋 Hi! My name is Ekaterina Proshenkova.
- I’m a Data Analyst 
+ Hi!👋
+ I'm Ekaterina Proshenkova
 
 ---
-
-🧠 About me
-
-· 👩‍💻 Role: Data Analyst
-
-· 🛠 Tech stack:
+Role: Data Analyst
+Tech stack:
   Python (Pandas, Matplotlib, Seaborn, NumPy),
   SQL (PostgreSQL, DBeaver),
   DataLens
   
-· 🗣 Languages:
+Languages:
   Russian — native,
   English — B1 (reading/writing/listening), A2 (speaking)
   
-· 💼 Open to: part-time opportunities
+· Open to: part-time opportunities
 
-· 📬 Contacts: https://t.me/eproshenkova1
+· Contacts: https://t.me/eproshenkova
 
 · 📍Based in Turkey
 

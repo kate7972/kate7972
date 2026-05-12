@@ -11,13 +11,13 @@ __🛠️ Skills & Tech Stack:__
 * __Product & Business Tools:__ Jira, Confluence, CRM, Bitrix
 
 ---
-__Languages:__  
+* __Languages:__  
 Russian — native  
   English — B1 (reading/writing/listening), A2 (speaking)  
   Turkish - A2
 
 ---
-__Contacts:__ https://t.me/eproshenkova  
+* __Contacts:__ https://t.me/eproshenkova  
 Open for collaboration and interesting projects
 
 📍Based in Turkey

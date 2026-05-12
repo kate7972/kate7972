@@ -6,9 +6,9 @@
 __🛠️ Skills & Tech Stack:__
 
 * __Programming & Databases:__ Python + библиотеки, SQL, Jypiter Notebook, DBeaver, PostgreSQL  
-__Data Analysis:__ A/B тестирование, проверка гипотез, когортный анализ, продуктовые метрики  
-__BI & Visualization:__ DataLens, Excel  
-__Product & Business Tools:__ Jira, Confluence, CRM, Bitrix
+* __Data Analysis:__ A/B тестирование, проверка гипотез, когортный анализ, продуктовые метрики  
+* __BI & Visualization:__ DataLens, Excel  
+* __Product & Business Tools:__ Jira, Confluence, CRM, Bitrix
 
 ---
 __Languages:__

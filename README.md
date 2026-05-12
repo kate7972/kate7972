@@ -1,9 +1,7 @@
- Hi!👋
- 
- I'm Ekaterina Proshenkova
+ Hi!👋 I'm Ekaterina Proshenkova
 
 ---
-Role: Data Analyst
+__Role:__ Data Analyst
 Tech stack:
   Python (Pandas, Matplotlib, Seaborn, NumPy),
   SQL (PostgreSQL, DBeaver),
